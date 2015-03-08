@@ -1,6 +1,6 @@
 
 /* File:  hanoi.h
- * By:    Austin Tasato
+ * By:
  * Date:  3/3/15
  *
  */
